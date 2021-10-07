@@ -7,9 +7,9 @@
     {"id": 5, "name": "Ritik"}
   ],
   "posts": [
-    { "id": 1, "IPL starts today!!": "Post 1", "userId": 1 },
-    { "id": 2, "Where do you get the best pizza in town?": "Post 2", "userId": 1 },
-    { "id": 3, "We're hiring!": "Post 3", "userId": 2 }
+    { "id": 1, "title":"IPL starts today!!": "Post 1", "userId": 1 },
+    { "id": 2, "title":"Where do you get the best pizza in town?": "Post 2", "userId": 1 },
+    { "id": 3, "title":"We're hiring!": "Post 3", "userId": 2 }
   ],
   "comments": [
     { "id": 1, "body": "#excited!!", "postId": 1 },
