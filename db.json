@@ -7,13 +7,16 @@
     {"id": 5, "name": "Ritik"}
   ],
   "posts": [
-    { "id": 1, "title": "Post 1", "userId": 1 },
-    { "id": 2, "title": "Post 2", "userId": 1 },
-    { "id": 3, "title": "Post 3", "userId": 2 }
+    { "id": 1, "IPL starts today!!": "Post 1", "userId": 1 },
+    { "id": 2, "Where do you get the best pizza in town?": "Post 2", "userId": 1 },
+    { "id": 3, "We're hiring!": "Post 3", "userId": 2 }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "#excited!!", "postId": 1 },
+    { "id": 2, "body": "What teams are opening?", "postId": 1 },
+    { "id": 2, "body": "MI VS RCB", "postId": 1 },
+    { "id": 2, "body": "Domino's", "postId": 2 },
+    { "id": 2, "body": "Interested", "postId": 3 }
   ],
   "profile": {
     "name": "akanksha_lendbox"
